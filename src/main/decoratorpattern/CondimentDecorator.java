@@ -1,4 +1,4 @@
-package main.DecoratorPattern;
+package main.decoratorpattern;
 
 /**
  * @program: designpatterns
